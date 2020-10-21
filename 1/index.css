@@ -61,7 +61,7 @@ body,html {
 }
 #links a {
     margin:0px 30px;
-    color:inherit;
+/*     color:inherit; */
     text-decoration:none;
     transition:0.4s ease-in-out;
     padding:5px 8px;
