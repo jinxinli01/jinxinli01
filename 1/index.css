@@ -145,6 +145,13 @@ body,html {
     transition:0.4s ease-in-out;
     color:#fff;
 }
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
 #contact form input:focus {
     outline:none;
     border-bottom:2px solid rgba(255,255,255,1);
