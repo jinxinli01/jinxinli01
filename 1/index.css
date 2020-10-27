@@ -22,12 +22,7 @@ h3{
     flex-direction: column;
     align-items: center;
 }
-#image1{
-  margin-left:100px;
-}
-#image8{
-  padding-top:100px;
-}
+
 /* .container {
   position: relative;
   width: 50%;
