@@ -22,7 +22,7 @@ h3{
     flex-direction: column;
     align-items: center;
 }
-.container {
+/* .container {
   position: relative;
   width: 50%;
   display: inline-block
@@ -59,7 +59,7 @@ h3{
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-}
+} */
 a:link {
   color: purple;
   background-color: transparent;
