@@ -22,6 +22,12 @@ h3{
     flex-direction: column;
     align-items: center;
 }
+#image1{
+  margin-left:100px;
+}
+#image8{
+  margin-top:100px;
+}
 /* .container {
   position: relative;
   width: 50%;
@@ -226,6 +232,7 @@ a:active {
 ::placeholder {
     color:#fff;
 }
+
 .btn_one {
   color:white;
   padding:10px 40px;
