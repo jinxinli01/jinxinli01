@@ -39,8 +39,8 @@ h3{
   bottom: 0;
   left: 0;
   right: 0;
-  height: 50%;
-  width: 50%;
+  height: 100%;
+  width: 100%;
   opacity: 0;
   transition: .5s ease;
 }
@@ -55,8 +55,8 @@ h3{
   position: absolute;
   top: 100%;
   left: 100%;
-  /* transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 a:link {
   color: purple;
@@ -226,7 +226,7 @@ a:active {
 }
 .btn_one {
     color:white;
-    padding:20px;
+    padding:30px;
     border-radius:50px;
     border:2px solid #fff;
     font-size:18px;
