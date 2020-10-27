@@ -39,11 +39,10 @@ h3{
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
-  width: 100%;
+  height: 50%;
+  width: 50%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
 }
 
 .container:hover .overlay {
@@ -227,7 +226,7 @@ a:active {
 }
 .btn_one {
     color:white;
-    padding-bottom:30px;
+    padding:20px;
     border-radius:50px;
     border:2px solid #fff;
     font-size:18px;
@@ -235,7 +234,7 @@ a:active {
     font-weight:bold;
     background:transparent;
     transition:0.4s ease-in-out;
-    margin:20px;
+    margin:30px;
 }
 .btn_one:hover {
     background:white;
