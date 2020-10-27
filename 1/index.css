@@ -25,11 +25,9 @@ h3{
 .container {
   position: relative;
   width: 50%;
+  display: inline-block
 }
-.container1 {
-  position: relative;
-  width: 50%;
-}
+
 .image1 {
   display: block;
   width: 50%;
@@ -52,9 +50,7 @@ h3{
   opacity: 1;
 }
 
-.container1:hover .overlay {
-  opacity: 1;
-}
+
 .text {
   color: white;
   font-size: 20px;
