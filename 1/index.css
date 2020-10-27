@@ -226,7 +226,7 @@ a:active {
 }
 .btn_one {
     color:white;
-    padding:30px;
+    padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
     font-size:18px;
@@ -234,7 +234,7 @@ a:active {
     font-weight:bold;
     background:transparent;
     transition:0.4s ease-in-out;
-    margin:30px;
+    margin:30px 10px;
 }
 .btn_one:hover {
     background:white;
