@@ -30,7 +30,7 @@ h3{
 .image1 {
   display: block;
   width: 50%;
-  height: auto;
+  height: 50%;
 }
 
 .overlay {
@@ -54,8 +54,8 @@ h3{
   color: white;
   font-size: 20px;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 100%;
+  left: 100%;
   /* transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%); */
 }
