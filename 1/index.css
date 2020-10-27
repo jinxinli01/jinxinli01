@@ -7,6 +7,10 @@ body,html {
     background:#FCF6F5FF;
     scroll-behavior: smooth;
 }
+h3{
+    margin:10px;
+    color:pink;
+}
 #loading {
     width: 100vw;
     height: 100vh;
