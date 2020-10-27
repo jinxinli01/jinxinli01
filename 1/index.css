@@ -18,6 +18,26 @@ body,html {
     flex-direction: column;
     align-items: center;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
 #spinner {
     animation: rotate 0.56s infinite linear;
     width:60px;
@@ -290,13 +310,13 @@ button:focus {
     height:5px;
 }
 ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
+    background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-    background: #000; 
+    background: #000;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #555; 
+    background: #555;
 }
 @-webkit-keyframes Gradient {
 0% {background-position: 0% 50%}
