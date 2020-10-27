@@ -23,7 +23,7 @@ h3{
     align-items: center;
 }
 
-.container {
+/* .container {
   position: relative;
   width: 50%;
 }
@@ -61,6 +61,22 @@ h3{
   -ms-transform: translate(-50%, -50%);
   transform: translate(-100%, -100%);
 
+} */
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 a:link {
   color: purple;
