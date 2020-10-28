@@ -326,7 +326,8 @@ a:active {
     }
     .btn_one {
         font-size:14px;
-        padding:20px 20px;
+        padding:8px 20px;
+        margin-top:30px;
     }
     .btn_two {
         font-size:14px;
