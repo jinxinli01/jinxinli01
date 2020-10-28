@@ -99,7 +99,7 @@ a:active {
   text-decoration: underline;
 }
 .button{
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 #spinner {
     animation: rotate 0.56s infinite linear;
