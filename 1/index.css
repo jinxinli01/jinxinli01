@@ -98,10 +98,7 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-.button{
-  position: relative;
-  top: 30px;
-}
+
 #spinner {
     animation: rotate 0.56s infinite linear;
     width:60px;
@@ -329,7 +326,7 @@ a:active {
     }
     .btn_one {
         font-size:14px;
-        padding:8px 20px;
+        padding:20px 20px;
     }
     .btn_two {
         font-size:14px;
