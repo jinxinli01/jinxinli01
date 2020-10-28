@@ -99,9 +99,6 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-.pagemargin{
-      margin-left:40px;
-}
 #spinner {
     animation: rotate 0.56s infinite linear;
     width:60px;
