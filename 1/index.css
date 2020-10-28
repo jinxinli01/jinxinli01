@@ -100,7 +100,7 @@ a:active {
 }
 .button{
   position: relative;
-  top: 20px;
+  top: 30px;
 }
 #spinner {
     animation: rotate 0.56s infinite linear;
