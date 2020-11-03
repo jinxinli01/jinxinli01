@@ -1,5 +1,5 @@
 body,html {
-    padding:1px;
+    padding:0px;
     margin-left: 20px;
     margin-right: 20px;
     font-family: 'Comfortaa', cursive;
@@ -11,6 +11,7 @@ body,html {
 h3{
     margin:10px;
     color:#f79dfc;
+}
 
 #loading {
     width: 100vw;
@@ -234,7 +235,7 @@ a:active {
     -o-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    margin-left:100px;
+    margin-left:20px;
 }
 #contact form input:focus {
     outline:none;
