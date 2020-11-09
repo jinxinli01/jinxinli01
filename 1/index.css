@@ -2,7 +2,7 @@ body,html {
     padding:0px;
     margin-left: 20px;
     margin-right: 20px;
-    font-family: 'Comfortaa', cursive;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
     font-weight:bold;
     color:#11212e;
     background:#FCF6F5FF;
